@@ -1,0 +1,359 @@
+ @import url('https://fonts.googleapis.com/css2?family=Anton&family=Cabin&family=Explora&family=Noto+Sans+Cherokee&family=Open+Sans:wght@300;400&family=Oswald&family=PT+Sans+Narrow&family=Playfair+Display:ital@1&family=Roboto+Mono&family=Rowdies&family=Sofia+Sans+Extra+Condensed:ital@1&display=swap');
+
+ nav{ 
+    background: url(./img/city.png);
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 768px;
+margin-top: 21px;
+}
+.book{
+    margin-right: 50px;
+}
+.find{
+    display: flex;
+}
+.fin{
+    font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+color: #FFFFFF;
+}
+.fin span{
+    color: #28A745;
+}
+.themes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+}
+.thema{
+    font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #FFFFFF;
+}
+.sky{
+    margin-top: 220px;
+    font-weight: 300;
+font-size: 55px;
+line-height: 66px;
+text-align: center;
+color: #E9E9E9;
+}
+.world{
+    margin-top: 25px;
+    font-weight: 400;
+font-size: 22px;
+line-height: 37px;
+text-align: center;
+color: #E9E9E9;
+}
+.btn{
+    margin-top: 30px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+color: #FFFFFF;
+padding: 10px 30px;
+background: #28A745;
+border-radius: 5px;
+}
+.limit{
+    text-align: center;
+    margin-bottom: 264px;
+}
+.home{
+    background-color: #28A745;
+    width: 67px;
+    height: 67px;
+border-radius: 33.5px;
+margin-top: 50px;
+margin-left: 42%;
+padding: 20px 5px;
+padding-left: 15px;
+}
+.con{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 33px;
+    text-align: center;
+    color: #333333;
+margin-top: 15px;    
+}
+.cons{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #333333;
+    margin-top: 16px;
+}
+.all{
+    display: flex;
+}
+section{
+    margin-top: 30px;
+    background-color: #28A745;
+    width: 1360px;
+    margin: auto;
+}
+.people{
+    width: 100%;
+    height: 100%;
+    margin-left: -31px;
+}
+.sozlar{
+    
+    width: 680px;
+height: 460px;
+}
+.hi{
+    width: 70%;
+    align-items: center;
+}
+.sozlar p{
+    font-weight: 400;
+font-size: 20px;
+line-height: 33px;
+color: #FFFFFF;
+margin-top: 84px;
+}
+.sozlar h3{
+    font-weight: 300;
+font-size: 38px;
+line-height: 48px;
+color: #FFFFFF;
+margin-top: 5px;
+}
+.lor{font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-top: 26px;
+    }
+    .btn2{
+        font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #FFFFFF;
+padding: 12px 27px;
+background: #28A745;
+border-radius: 5px;
+margin-top: 17px;
+border: 2px solid white;
+    }
+    .what{
+        font-weight: 400;
+font-size: 20px;
+line-height: 33px;
+text-align: center;
+color: #333333;
+margin-top: 50px;
+    }
+    .bas{
+        font-weight: 300;
+font-size: 38px;
+line-height: 48px;
+text-align: center;
+color: #333333;
+
+    }
+    .gass{
+        font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+color: #333333;
+margin-top: 34px;
+    }
+    .rasmla{
+        gap: 8px;
+        margin-top: 40px;
+    }
+    .rasmla2{
+        gap: 8px;
+        margin-top: 10px;
+    }
+    .kok{
+        background: #0284D0;
+        width: 1310px;
+        margin: auto;
+        margin-top: 45px;
+    }
+    .cup{
+        width: 100%;
+        height: 100%;
+        margin-left: 11px;
+    }
+    .bbb{
+        font-weight: 400;
+font-size: 20px;
+line-height: 33px;
+color: #FFFFFF;
+margin-top: 112px;
+    }
+    .kok h1{
+        font-weight: 300;
+font-size: 38px;
+line-height: 48px;
+color: #FFFFFF;
+margin-top: 5px;
+    }
+    .ppp{
+        font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #FFFFFF;
+margin-top: 26px;
+    }
+    .btn3{
+        font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #FFFFFF;
+padding: 10px 35px;
+background: #0284D0;
+border-radius: 5px;
+border: 2px solid white;
+    }
+    .oq h3{
+        font-weight: 400;
+font-size: 20px;
+line-height: 33px;
+text-align: center;
+margin-top: 49px;
+
+color: #333333;
+
+    }
+    .oq h1{
+        font-weight: 300;
+font-size: 38px;
+line-height: 48px;
+text-align: center;
+color: #333333;
+margin-top: 16px;
+    }
+    .oq p{
+        font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+margin-top: 34px;
+color: #333333;
+    }
+    .boys{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 45px;
+    }
+    /* .boy1{
+        width: 400px; */
+        .boy1 h3{
+            font-weight: 400;
+            font-size: 25px;
+            line-height: 32px;
+            text-align: center;
+            color: #333333;
+            margin-top: 13px;
+        }
+        .boy1 p{
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 28px;
+            text-align: center;
+            margin-top: 12px;
+            color: #333333;
+        }
+    .boy2{
+        width: 100%;
+        margin-left: 15px;
+        margin-top: -20px;
+    }
+    .boy2 h3{
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 32px;
+        text-align: center;
+        color: #333333;
+        margin-top: 13px;
+    }
+    .boy2 p{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+        margin-top: 12px;
+        color: #333333;
+    }
+    .boy3 h3{
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 32px;
+        text-align: center;
+        color: #333333;
+        margin-top: 13px;
+    }
+    .boy3 p{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+        margin-top: 12px;
+        color: #333333;
+    }
+    /* .boy3{
+        width: 400px;
+    } */
+    .man{
+        width: 100%;
+    }
+    .tel{
+        font-weight: 300;
+font-size: 38px;
+line-height: 48px;
+margin-top: 48px;
+color: #333333;
+    }
+    .mb-3{
+        margin-top: 34px;
+    }
+    .mb-4{
+        margin-top: 36px;
+    }
+    .btn4{
+        font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+color: #FFFFFF;
+padding: 10px 300px;
+background: #28A745;
+border-radius: 5px;
+margin-top: 60px;
+border: none;
+    }
+    footer{
+        margin-top: 59px;
+    }
+    .end{
+        width: 1310px;
+        margin: auto;
+        background: #333333;
+    }
+    .icon{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .end{
+        font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+color: #FFFFFF;
+margin-top: 10px;
+    }
